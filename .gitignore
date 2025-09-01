@@ -13,3 +13,5 @@ __pycache__/
 *.log
 coverage/
 *.local
+crowdsale/
+ethers_examples/
